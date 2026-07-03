@@ -1,0 +1,5 @@
+Smart File Organizer & Automated Backup Utility
+===============================================
+1. Drag the 'gui_manager.exe' file to any location on your PC.
+2. Double-click the file to launch your modern Dark Mode dashboard.
+3. Note: No installation or Python setup is required to run this software.
